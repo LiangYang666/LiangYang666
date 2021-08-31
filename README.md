@@ -38,7 +38,7 @@ Awesome githuber
 
 <!-- ### 👋 Hi there -->
 
-<h1 align="center">Hey, I'm Younger!</h1>
+<h1 align="center">Hey, I'm Liang Yang!</h1>
 
 <!-- <p align="center">
   <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
@@ -87,7 +87,7 @@ Awesome githuber
 
 
 
-### 🌠[Coding Time](https://wakatime.com/@LiangYang666)
+### 🌠[Coding Time](https://wakatime.com/@Liang)
 > the projects I'm working on
 <!-- 
 ![My stats](https://github-readme-stats.vercel.app/api?username=LiangYang666&theme=calm&show_icons=true)
