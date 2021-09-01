@@ -62,7 +62,8 @@ Awesome githuber
 <p align="center">
     <a href="https://docs.spring.io/spring-framework/docs/5.3.10-SNAPSHOT/reference/html/index.html"> <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat"/> </a>
     <a href="https://www.runoob.com/mysql/mysql-tutorial.html"> <img src="https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=flat"/> </a>
-	<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>
+	<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/> </a>
+	<!-- <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> -->
 <!--     <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> </a> -->
 <!--     <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> </a> -->
 <!--     <a href="https://www.haskell.org/">  <img src="https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" /> </a> -->
