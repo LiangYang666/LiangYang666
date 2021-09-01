@@ -52,13 +52,10 @@ Awesome githuber
 </div> -->
 
 <p align="center">
-    <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
+    
+    <b><a href="https://github.com/LiangYang666?tab=repositories">Repositories</a></b>
     •
-    <b><a href="https://github.com/golang/go">Gopher</a></b>
-    •
-    <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-    •
-    <b><a href="https://LiangYang666.github.io/fastpages/">Blogs</a></b>
+    <b><a href="https://LiangYang666.github.io/">Blogs</a></b>
     <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
