@@ -78,16 +78,6 @@ Awesome githuber
 </p> -->
 ---
 
-### ⚡ Links
-<p align="center">
-    <b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
-    •
-    <b><a href="https://www.bilibili.com/">bilibili</a></b>
-    
-</p>
-
----
-
 ### 🌱 [Blogs](https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343)
 <p align="center">
     <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309?spm=1001.2014.3001.5501">Linux&git</a></b>
@@ -99,13 +89,20 @@ Awesome githuber
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
 
----
+
+### ⚡ Links
+<p align="center">
+<b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
+•
+<b><a href="https://www.bilibili.com/">bilibili</a></b>
+
+</p>
 
 ### 🔭[Repositories](https://github.com/LiangYang666?tab=repositories)
 <p align="center">
     <b><a href="https://github.com/LiangYang666/MyPythonTools">Python Tools</a></b>
     •
-    <b><a href=”https://github.com/LiangYang666/ProgrammingProblem">Java Programming Problem</a></b>
+    <b><a href="https://github.com/LiangYang666/ProgrammingProblem">Java Programming Problem</a></b>
 </p>
 
 ---
