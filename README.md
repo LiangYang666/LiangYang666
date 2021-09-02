@@ -54,7 +54,7 @@ Awesome githuber
 <p align="center">
     <b><a href="https://github.com/LiangYang666?tab=repositories">Repositories</a></b>
     •
-    <b><a href=“https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343">Blogs</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343">Blogs</a></b>
     <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
