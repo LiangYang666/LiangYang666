@@ -54,7 +54,7 @@ Awesome githuber
 <p align="center">
     <b><a href="https://github.com/LiangYang666?tab=repositories">Repositories</a></b>
     •
-    <b><a href=https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343">Blogs</a></b>
+    <b><a href=“https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343">Blogs</a></b>
     <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
@@ -76,12 +76,39 @@ Awesome githuber
     <a href=""> <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/> </a>
     <a href="https://github.com/Microsoft/Terminal/"> <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/> </a>
 </p> -->
+---
 
-
+### ⚡ Links
+<p align="center">
+    <b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
+    •
+    <b><a href="https://www.bilibili.com/">bilibili</a></b>
+    
+</p>
 
 ---
 
+### 🌱 [Blogs](https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343)
+<p align="center">
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309?spm=1001.2014.3001.5501">Linux&git</a></b>
+    •
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/103591433?spm=1001.2014.3001.5501">pip</a></b>
+    •
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/119180878?spm=1001.2014.3001.5501">MySql</a></b>
+    <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
+    <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
+</p>
 
+---
+
+### 🔭[Repositories](https://github.com/LiangYang666?tab=repositories)
+<p align="center">
+    <b><a href="https://github.com/LiangYang666/MyPythonTools">Python Tools</a></b>
+    •
+    <b><a href=”https://github.com/LiangYang666/ProgrammingProblem">Java Programming Problem</a></b>
+</p>
+
+---
 
 ### 🌠[Coding Time](https://wakatime.com/@Liang)
 > the projects I'm working on
