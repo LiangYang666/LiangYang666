@@ -80,11 +80,11 @@ Awesome githuber
 
 ### 🌱 [Blogs](https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343)
 <p align="center">
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309?spm=1001.2014.3001.5501">Linux&git</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309?spm=1001.2014.3001.5501" target="_blank">Linux&git</a></b>
     •
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/103591433?spm=1001.2014.3001.5501">pip</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/103591433?spm=1001.2014.3001.5501" target="_blank">pip</a></b>
     •
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/119180878?spm=1001.2014.3001.5501">MySql</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/119180878?spm=1001.2014.3001.5501" target="_blank">MySql</a></b>
     <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
