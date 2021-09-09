@@ -94,7 +94,7 @@ Awesome githuber
 <p align="center">
   <b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
   •
-  <b><a href="https://www.bilibili.com/">bilibili</a></b>	
+  <b><a href="https://www.bilibili.com/account/history">bilibili history</a></b>	
   •
   <b><a href="https://leetcode-cn.com/problem-list/xb9nqhhg//">leetcode offerII</a></b>
   •
