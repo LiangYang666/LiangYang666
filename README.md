@@ -98,7 +98,7 @@ Awesome githuber
   •
   <b><a href="https://leetcode-cn.com/problem-list/xb9nqhhg//">leetcode offerII</a></b>
   •
-  <b><a href="https://github.com/Snailclimb/JavaGuide/blob/master/README.mdN">JavaGuide</a></b>
+  <b><a href="https://github.com/Snailclimb/JavaGuide/blob/master/README.md">JavaGuide</a></b>
 </p>
 <p align="center">
   <b><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></b>
