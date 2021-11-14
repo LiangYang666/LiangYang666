@@ -98,6 +98,8 @@ Awesome githuber
   •
   <b><a href="https://leetcode-cn.com/problem-list/xb9nqhhg//">leetcode offerII</a></b>
   •
+  <b><a href="https://leetcode-cn.com/problem-list/e8X3pBZi/">leetcode offer</a></b>
+  •
   <b><a href="https://github.com/Snailclimb/JavaGuide/blob/master/README.md">JavaGuide</a></b>
 </p>
 <p align="center">
