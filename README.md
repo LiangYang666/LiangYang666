@@ -84,9 +84,8 @@ Awesome githuber
     •
     <b><a href="https://blog.csdn.net/qq_39165617/article/details/103591433?spm=1001.2014.3001.5501" target="_blank">pip</a></b>
     •
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/119180878?spm=1001.2014.3001.5501" target="_blank">MySql</a></b>
-    <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
-    <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/121411828" target="_blank">How to create a blog web site</a></b>
+
 </p>
 
 
@@ -94,11 +93,7 @@ Awesome githuber
 <p align="center">
   <b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
   •
-  <b><a href="https://www.bilibili.com/account/history">bilibili history</a></b>	
-  •
-  <b><a href="https://leetcode-cn.com/problem-list/xb9nqhhg//">leetcode offerII</a></b>
-  •
-  <b><a href="https://leetcode-cn.com/problem-list/e8X3pBZi/">leetcode offer</a></b>
+  <b><a href="http://liangyang.site/article/1645365731">Resume</a></b>	
   •
   <b><a href="https://github.com/Snailclimb/JavaGuide/blob/master/README.md">JavaGuide</a></b>
 </p>
@@ -106,13 +101,14 @@ Awesome githuber
   <b><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></b>
   •
   <b><a href="https://mail.csu.edu.cn/coremail/XT5/index.jsp?sid=BAFwFlLLokXPKcEIAUszBcuKQAanfgne#mail.welcome">CSU email</a></b>
-
 </p>
 
 
 ### 🔭[Repositories](https://github.com/LiangYang666?tab=repositories)
 <p align="center">
     <b><a href="https://github.com/LiangYang666/MyPythonTools">Python Tools</a></b>
+    •
+     <b><a href="https://github.com/LiangYang666/test-blog-01">Create a blog</a></b>
     •
     <b><a href="https://github.com/LiangYang666/ProgrammingProblem">Java Programming Problem</a></b>
 </p>
