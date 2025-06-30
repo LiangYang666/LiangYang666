@@ -78,25 +78,24 @@ Awesome githuber
 </p> -->
 <!-- --- -->
 
-### 🌱 [Blogs](https://blog.csdn.net/qq_39165617?spm=1001.2100.3001.5343)
+### 🌱 [Blogs](https://blog.csdn.net/qq_39165617)
 <p align="center">
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309?spm=1001.2014.3001.5501" target="_blank">Linux&git</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/115662309" target="_blank">Linux&git</a></b>
     •
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/103591433?spm=1001.2014.3001.5501" target="_blank">pip</a></b>
-    •
-    <b><a href="https://blog.csdn.net/qq_39165617/article/details/121411828" target="_blank">How to create a blog web site</a></b>
+    <b><a href="https://blog.csdn.net/qq_39165617/article/details/10359143" target="_blank">pip</a></b>
+<!--     <b><a href="https://blog.csdn.net/qq_39165617/article/details/121411828" target="_blank">How to create a blog web site</a></b> -->
 
 </p>
 
-
 ### ⚡ Links
-<p align="center">
+<!--  <p align="center">
   <b><a href="https://learngitbranching.js.org/?NODEMO=&locale=zh_CN">LearnGit</a></b>
   •
   <b><a href="http://liangyang.site/article/1645365731">Resume</a></b>	
   •
   <b><a href="https://github.com/Snailclimb/JavaGuide/blob/master/README.md">JavaGuide</a></b>
-</p>
+</p> 
+-->
 <p align="center">
   <b><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></b>
   •
@@ -106,9 +105,13 @@ Awesome githuber
 
 ### 🔭[Repositories](https://github.com/LiangYang666?tab=repositories)
 <p align="center">
+    <b><a href="https://github.com/LiangYang666/ChatGPT-Web">ChatGPT-Web</a></b>
+    • 
+    <b><a href="https://github.com/LiangYang666/ChatAnywhere">ChatAnywhere</a></b>
+    • 
+    <b><a href="https://github.com/LiangYang666/LiangNat">LiangNat</a></b>
+    • 
     <b><a href="https://github.com/LiangYang666/MyPythonTools">Python Tools</a></b>
-    •
-     <b><a href="https://github.com/LiangYang666/test-blog-01">Create a blog</a></b>
     •
     <b><a href="https://github.com/LiangYang666/ProgrammingProblem">Java Programming Problem</a></b>
 </p>
